@@ -1,0 +1,10 @@
+TensorFlow ==  2.18.0
+Keras ==  3.8.0
+scikit-learn ==  1.6.1
+Pandas ==  2.2.2
+NumPy ==  2.0.2
+OpenCV ==  4.11.0
+(PIL) ==  11.2.1
+scikit-image ==  0.25.2
+tqdm ==  4.67.1
+TensorFlow.js ==  4.22.0
